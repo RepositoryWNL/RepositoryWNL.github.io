@@ -13,8 +13,8 @@ http://www.w3schools.com/css/
 	/* set the text alignment (center, left or right)*/
 	text-align: center;
 	/* set the width of the text box*/
-	width: 100%;
+	width: 85%;
 	/*this centers the text box*/
-	margin: 40% auto;
+	margin: 45% auto;
 	word-wrap: break-word;
 }
